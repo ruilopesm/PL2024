@@ -45,8 +45,8 @@ def main() -> None:
     print()
 
     passed: int = len([r for r in results if r])
-    passed_percentage: float = passed / len(results) * 100
     total: int = len(results)
+    passed_percentage: float = passed / total * 100
 
     print(f"Percentagem de atletas aptos: {passed_percentage:.2f}% ({passed}/{total})")
     print(f"Percentagem de atletas inaptos: {100 - passed_percentage:.2f}% ({total - passed}/{total})")
