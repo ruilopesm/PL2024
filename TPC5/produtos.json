@@ -1,0 +1,92 @@
+[
+    {
+        "codigo": "01",
+        "nome": "Pão com manteiga",
+        "quantidade": 5,
+        "preco": 0.90
+    },
+    {
+        "codigo": "02",
+        "nome": "Café",
+        "quantidade": 12,
+        "preco": 0.50
+    },
+    {
+        "codigo": "03",
+        "nome": "Café com leite",
+        "quantidade": 0,
+        "preco": 1.00
+    },
+    {
+        "codigo": "04",
+        "nome": "Lanche misto quente",
+        "quantidade": 10,
+        "preco": 1.30
+    },
+    {
+        "codigo": "05",
+        "nome": "Sumo de laranja",
+        "quantidade": 7,
+        "preco": 1.00
+    },
+    {
+        "codigo": "06",
+        "nome": "Sumo de uva",
+        "quantidade": 8,
+        "preco": 1.00
+    },
+    {
+        "codigo": "07",
+        "nome": "Refrigerante",
+        "quantidade": 2,
+        "preco": 1.00
+    },
+    {
+        "codigo": "08",
+        "nome": "Água",
+        "quantidade": 20,
+        "preco": 0.50
+    },
+    {
+        "codigo": "09",
+        "nome": "Cerveja",
+        "quantidade": 3,
+        "preco": 1.50
+    },
+    {
+        "codigo": "10",
+        "nome": "Cachorro quente",
+        "quantidade": 5,
+        "preco": 1.20
+    },
+    {
+        "codigo": "11",
+        "nome": "Pastel",
+        "quantidade": 8,
+        "preco": 1.00
+    },
+    {
+        "codigo": "12",
+        "nome": "Bolo",
+        "quantidade": 1,
+        "preco": 1.00
+    },
+    {
+        "codigo": "13",
+        "nome": "Salgado",
+        "quantidade": 0,
+        "preco": 1.00
+    },
+    {
+        "codigo": "14",
+        "nome": "Torta",
+        "quantidade": 5,
+        "preco": 1.00
+    },
+    {
+        "codigo": "15",
+        "nome": "Pão com mel",
+        "quantidade": 0,
+        "preco": 1.00
+    }
+]
